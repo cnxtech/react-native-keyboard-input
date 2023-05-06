@@ -52,7 +52,7 @@
     "jest": "^18.1.0",
     "mocha": "^3.3.0",
     "react": "16.8.3",
-    "react-native": "0.59.x",
+    "react-native": "0.71.x",
     "react-native-autogrow-textinput": "^5.0.0",
     "react-native-blur": "^3.0.0",
     "react-native-navigation": "^1.1.70",
